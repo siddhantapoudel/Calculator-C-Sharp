@@ -1,0 +1,29 @@
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\calculator.g.cs
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\App.g.cs
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\calculator.baml
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\sagar\documents\visual studio 2017\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\others\Application Files\Calculator\Calculator\bin\Debug\h.exe.config
+E:\others\Application Files\Calculator\Calculator\bin\Debug\h.exe
+E:\others\Application Files\Calculator\Calculator\bin\Debug\h.pdb
+E:\others\Application Files\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\others\Application Files\Calculator\Calculator\obj\Debug\calculator.g.cs
+E:\others\Application Files\Calculator\Calculator\obj\Debug\App.g.cs
+E:\others\Application Files\Calculator\Calculator\obj\Debug\h_MarkupCompile.cache
+E:\others\Application Files\Calculator\Calculator\obj\Debug\h_MarkupCompile.lref
+E:\others\Application Files\Calculator\Calculator\obj\Debug\calculator.baml
+E:\others\Application Files\Calculator\Calculator\obj\Debug\h.g.resources
+E:\others\Application Files\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\others\Application Files\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\others\Application Files\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\others\Application Files\Calculator\Calculator\obj\Debug\h.exe
+E:\others\Application Files\Calculator\Calculator\obj\Debug\h.pdb
